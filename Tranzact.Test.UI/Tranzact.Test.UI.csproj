@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Tranzact.Test.BE\Tranzact.Test.BE.csproj" />
+    <ProjectReference Include="..\Tranzact.Test.BL\Tranzact.Test.BL.csproj" />
+  </ItemGroup>
+
+</Project>

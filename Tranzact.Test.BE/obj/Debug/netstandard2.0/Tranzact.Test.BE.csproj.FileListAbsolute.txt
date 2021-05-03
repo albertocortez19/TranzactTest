@@ -1,0 +1,8 @@
+D:\Me\tranzact\Tranzact.Test.BE\bin\Debug\netstandard2.0\Tranzact.Test.BE.deps.json
+D:\Me\tranzact\Tranzact.Test.BE\bin\Debug\netstandard2.0\Tranzact.Test.BE.dll
+D:\Me\tranzact\Tranzact.Test.BE\bin\Debug\netstandard2.0\Tranzact.Test.BE.pdb
+D:\Me\tranzact\Tranzact.Test.BE\obj\Debug\netstandard2.0\Tranzact.Test.BE.csprojAssemblyReference.cache
+D:\Me\tranzact\Tranzact.Test.BE\obj\Debug\netstandard2.0\Tranzact.Test.BE.AssemblyInfoInputs.cache
+D:\Me\tranzact\Tranzact.Test.BE\obj\Debug\netstandard2.0\Tranzact.Test.BE.AssemblyInfo.cs
+D:\Me\tranzact\Tranzact.Test.BE\obj\Debug\netstandard2.0\Tranzact.Test.BE.dll
+D:\Me\tranzact\Tranzact.Test.BE\obj\Debug\netstandard2.0\Tranzact.Test.BE.pdb
